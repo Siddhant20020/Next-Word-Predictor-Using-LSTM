@@ -17,5 +17,6 @@ This project implements a **next-word prediction model** using LSTM networks. Th
 
 ## Dataset
 
-- **Kaggle Quotes Dataset**: Contains 20,000 quotes.
+- **Kaggle Quotes Dataset**: Contains 3039 quotes.
 - Used for training the sequence prediction model.
+
