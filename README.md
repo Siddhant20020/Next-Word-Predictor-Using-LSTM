@@ -4,7 +4,7 @@ This project implements a **next-word prediction model** using LSTM networks. Th
 
 ## Features
 
-- Built an **LSTM model** for next-word prediction using the Kaggle **Quotes dataset** (20k quotes).
+- Built an **LSTM model** for next-word prediction using the Kaggle **Quotes dataset** (30k quotes).
 - Implemented **tokenization, padding, and sequence generation** for text preprocessing.
 - Model architecture:
   - **Embedding layer** to convert words to dense vectors.
@@ -19,4 +19,5 @@ This project implements a **next-word prediction model** using LSTM networks. Th
 
 - **Kaggle Quotes Dataset**: Contains 3039 quotes.
 - Used for training the sequence prediction model.
+
 
